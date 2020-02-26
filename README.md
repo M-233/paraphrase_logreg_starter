@@ -39,17 +39,6 @@ Example usage:
 
 ## Results
 
-### Dataset descrtption
 
-### Metrics result
-
-
-               BLEU  Word Error Rate     Tfidf
-accuracy   0.811630         0.805897  0.855856
-precision  0.637097         0.589404  0.705607
-recall     0.299242         0.337121  0.571970
-f1         0.407216         0.428916  0.631799
-
-baseline: accuracy 0.823   precision 0.586        recall 0.617    f1 0.601
 
 
